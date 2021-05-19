@@ -1,6 +1,6 @@
 ### Hi, I'm Jerry 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=czy0538.czy0538.README)
-[![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry)]
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=czy0538&count_private=true&show_icons=true)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=czy0538j&show_icons=true">
 
 - 📚 I’m a student of Harbin Institute of Technology.
