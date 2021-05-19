@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Jerry 👋 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=czy0538.czy0538.README)
+![blog](https://img.shields.io/badge/blog-https%3A%2F%2Fblog.csdn.net%2Fjunbaba__%3Fspm%3D1010.2135.3001.5113-red)
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=czy0538j&show_icons=true">
 
-<!--
-**czy0538/czy0538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m a student of Harbin Institute of Technology.
+- 🏛 I’m applying a university to do my master's degree.
+- 🚀 I use daily:
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![C++](https://img.shields.io/badge/-C%2B%2B-orange)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 📫 How to reach me:czy0538@gmail.com
