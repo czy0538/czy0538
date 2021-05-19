@@ -1,6 +1,6 @@
 ### Hi, I'm Jerry 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=czy0538.czy0538.README)
-![blog](https://img.shields.io/badge/blog-https%3A%2F%2Fblog.csdn.net%2Fjunbaba__%3Fspm%3D1010.2135.3001.5113-red)
+[![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=czy0538j&show_icons=true">
 
 - 📚 I’m a student of Harbin Institute of Technology.
