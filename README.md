@@ -3,7 +3,6 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=czy0538&count_private=true&show_icons=true">
 
 - 📚 I’m a student of Harbin Institute of Technology.
-- 🏛 I’m applying a university to do my master's degree.
 - 🚀 I use daily:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![C++](https://img.shields.io/badge/-C%2B%2B-orange)
