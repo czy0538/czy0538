@@ -4,7 +4,7 @@
 
 - 📚 I’m a student of Harbin Institute of Technology.
 - 🚀 I use daily:
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![Go](https://img.shields.io/badge/Golang-8fcfd1?style=plastic&logo=Golang)
 ![C++](https://img.shields.io/badge/-C%2B%2B-orange)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
