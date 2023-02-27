@@ -8,4 +8,4 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-orange)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 📫 How to reach me:czy0538@qq.com
+- 📫 How to reach me:czy0538@gmail.com
