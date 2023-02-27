@@ -5,7 +5,6 @@
 - 📚 I’m a student of Harbin Institute of Technology.
 - 🚀 I use daily:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-orange)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![C++]([https://img.shields.io/badge/-C%2B%2B-orange](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - 📫 How to reach me:czy0538@gmail.com
